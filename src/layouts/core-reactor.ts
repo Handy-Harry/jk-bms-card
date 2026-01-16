@@ -277,12 +277,12 @@ export class JkBmsCoreReactorLayout extends LitElement {
         .cell-volts {
             color: var(--primary-text-color);
             font-family: monospace;
-            font-size: 1.2em;
+            font-size: 1.1em;
         }
 
         .cell-res {
             color: var(--secondary-text-color);
-            font-size: 1.2em;
+            font-size: 1em;
             font-family: monospace;
         }
 
